@@ -14,4 +14,4 @@ else:
         if passtry == truepass:
             print("Пароль верный")
         else:
-            print("no hax")
+            print("нееш одумойся")
